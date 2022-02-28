@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @BenMagikz
-- 📫 githubenquires@benmagikz.com
 
 <!---
 BenMagikz/BenMagikz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
